@@ -1,66 +1,56 @@
 <h1 align="center">Hi 👋, I'm Mohan Kumar</h1>
-<h3 align="center" style="color:red;">🔥 Full Stack Developer | Python Enthusiast | LLM & AI Builder</h3>
+<h3 align="center" style="color:#0077ff;">💻 Full Stack Developer | Python | FastAPI | React | LLMs | DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Crafting+APIs+%26+AI+apps;Python+%7C+FastAPI+%7C+LLMs+%7C+React+JS;Lifelong+learner+and+builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0077FF&center=true&vCenter=true&width=500&lines=Techie+by+passion+%7C+Coder+by+craft;Building+AI+tools+%26+LLMs;FastAPI+%7C+React+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,fastapi,html,css,tailwind,docker,postgresql,mongodb,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi,docker,kubernetes,postgresql,mongodb,git,github,vscode,linux&theme=light" />
 </p>
 
 ---
 
-### 📈 All-Time GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohankumar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff0000&icon_color=ff5555" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohankumar550&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&title_color=0077FF&icon_color=0077FF" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohankumar&theme=red&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=Mohankumar550&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumar&layout=compact&theme=radical&hide_border=true&langs_count=10&title_color=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohankumar550&layout=compact&theme=blueberry&hide_border=true&langs_count=10&title_color=0077FF" />
 </p>
 
 ---
 
-### 🌐 Contribution Activity Graph
+### 🌐 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohankumar&theme=redical&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohankumar550&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🏷️ GitHub Badges
+### 📫 Connect with Me
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-red?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-FastAPI-red?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI-React-red?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-Huggingface-red?style=for-the-badge&logo=huggingface&logoColor=white" />
-</p>
-
----
-
-### 📫 Contact Me
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-0077FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Mohankumar550"><img src="https://img.shields.io/badge/GitHub-0077FF?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=100&section=footer"/>
 </p>
