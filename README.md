@@ -45,7 +45,7 @@
 ### 📫 Connect with Me
 <p align="center">
   <a href="mailto:off.mohankumarp@gmail.com"><img src="https://img.shields.io/badge/Gmail-0077FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/pmohankumar550/)"><img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pmohankumar550/"><img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Mohankumar550"><img src="https://img.shields.io/badge/GitHub-0077FF?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
